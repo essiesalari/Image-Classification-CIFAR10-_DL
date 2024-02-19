@@ -7,11 +7,9 @@ This project aims to classify images from the CIFAR10 dataset using Convolutiona
 ## Table of Contents
 
 1. Installation
-2. Usage
-3. Model Architecture
-4. Results
-5. Contributing
-6. License
+2. Model Architecture
+3. Results
+4. License
 
 ## Installation
 
