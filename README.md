@@ -11,5 +11,3 @@ The model architecture is based on a Convolutional Neural Network (CNN) which is
 
 ## License
 This project is licensed under the MIT License. Visit https://www.cs.toronto.edu/~kriz/cifar.html more details.
-Clickable Text
-GitHub
