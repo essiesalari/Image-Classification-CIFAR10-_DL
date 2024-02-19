@@ -4,13 +4,6 @@
 
 This project aims to classify images from the CIFAR10 dataset using Convolutional Neural Networks (CNNs). The CIFAR10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
-## Table of Contents
-
-1. Installation
-2. Model Architecture
-3. Results
-4. License
-
 ## Installation
 
 The code is written in Python and requires Python 3.x. The dependencies are listed in the `requirements.txt` file. To install these dependencies, run the following command:
