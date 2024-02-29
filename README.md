@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to classify images from the CIFAR10 dataset using Convolutional Neural Networks (CNNs). The CIFAR10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. The classes are as followings:
+This project aims to classify images from the CIFAR-10 dataset using Convolutional Neural Networks (CNNs). The CIFAR10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. The classes are as followings:
 * `airplane`                                        
 * `automobile`                                        
 * `bird`                                       
