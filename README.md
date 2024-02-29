@@ -1,4 +1,4 @@
-# Image Classification using CNNs on CIFAR10 Dataset
+# Image Classification using CNNs on CIFAR-10 Dataset
 
 ## Project Description
 
